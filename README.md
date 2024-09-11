@@ -28,7 +28,7 @@ The Langgraph repository provides a set of detailed Jupyter notebooks that walk 
 
 ### 2. **AstraDB (Vector Store)**:
    AstraDB plays a central role in handling vector-based data retrieval for augmenting the LLM’s responses. You can view the key metrics of AstraDB's performance in the image below:
-   (![Screenshot 2024-09-11 at 1 38 06 AM](https://github.com/user-attachments/assets/c2343e74-ac49-407c-b7b9-271666dc851c)
+   ![Screenshot 2024-09-11 at 1 38 06 AM](https://github.com/user-attachments/assets/c2343e74-ac49-407c-b7b9-271666dc851c)
 
    This integration allows your chatbot to retrieve relevant information from external datasets, improving the quality of responses.
 
@@ -49,10 +49,12 @@ The Langgraph repository provides a set of detailed Jupyter notebooks that walk 
 
 ### 2. **[Langgraph Chatbot with Tools](https://github.com/cxx5208/Langgraph/blob/main/2.Langgraph_Chatbot_with_Tools.ipynb)**:
    The focus here is on extending the chatbot’s capabilities by integrating tools like Wikipedia search. The notebook shows how to build a more complex agent that invokes external APIs or tools to fetch data when needed, enhancing the system's versatility.
+  
    ![image](https://github.com/user-attachments/assets/1b9200de-3cb5-4103-b7a0-d61aedb38366)
 
 ### 3. **[End-to-End Multi AI Agents RAG with LangGraph, AstraDB, and Llama 3.1](https://github.com/cxx5208/Langgraph/blob/main/3.End_to_End_Multi_AI_Agents_RAG_with_LangGraph_AstraDB_and_Llama_3_1.ipynb)**:
    This advanced notebook demonstrates the creation of a full-fledged multi-agent system for RAG workflows. You will learn how to integrate AstraDB for vector storage and retrieval, combined with Llama 3.1, to build a robust chatbot capable of answering complex queries based on external data sources.
+  
    ![image](https://github.com/user-attachments/assets/df5045a4-2559-48d4-9f4a-749c80231c4a)
 
 
