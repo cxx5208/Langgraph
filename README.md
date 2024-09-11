@@ -28,6 +28,7 @@ The Langgraph repository provides a set of detailed Jupyter notebooks that walk 
 
 ### 2. **AstraDB (Vector Store)**:
    AstraDB plays a central role in handling vector-based data retrieval for augmenting the LLM’s responses. You can view the key metrics of AstraDB's performance in the image below:
+   
    ![Screenshot 2024-09-11 at 1 38 06 AM](https://github.com/user-attachments/assets/c2343e74-ac49-407c-b7b9-271666dc851c)
 
    This integration allows your chatbot to retrieve relevant information from external datasets, improving the quality of responses.
